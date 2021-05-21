@@ -2,7 +2,12 @@
 In diesem Repository befinden sich Unterlagen für Römisches Recht.
 
 ## Flashcards / Spaced Repetition
-Karteikarten für das effiziente Lernen der Inhalte mit [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition) sind unter https://www.memcode.com/courses/3050 verfügbar:
+Karteikarten für das effiziente Lernen der Inhalte mit [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition) sind unter https://www.memcode.com/ verfügbar:
+- https://www.memcode.com/courses/3050 
+- https://www.memcode.com/courses/3661
+- https://www.memcode.com/courses/3688
+- https://www.memcode.com/courses/3716
+- https://www.memcode.com/courses/3872
 
 ### Status
 Der derzeitige Status ist im [ZenHub Kanban Board](https://app.zenhub.com/workspaces/open-law-austria-5f341d4316010a00180099ff) zu finden.
